@@ -8,7 +8,7 @@ import java.util.Random;
 /**
  * Created by Caffrey on 2017/4/6.
  */
-public class List线性表 {
+public class myList {
     public static void main(String[] args)
     {
         List<Integer> list1 = Arrays.asList(2,4,7,10,11,45,50,59,60,66);
